@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Hey, I'm @kzu (sounds like 'kah-zu' rather than 'kzoo' :)) here, on [twitter](https://twitter.com/kzu), 
+[microsoft.com](mailto:kzu@microsoft.com), [cazzulino.com](kzu@cazzulino.com), [nuget.org](http://www.nuget.org/profiles/kzu) 
+and danielkzu wherever someone decided three letters are too few chars ¯\\_ (ツ)_/¯
+
+
 <!--
 **kzu/kzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
