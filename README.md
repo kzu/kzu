@@ -13,11 +13,11 @@ amount required 🙏
 
 Some fancy stats about my favorite hobbie (coding on GitHub, of course!):
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kzu&show_icons=true&locale=en&layout=compact" alt="kzu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kzu&show_icons=true&locale=en&layout=compact&theme=transparent" alt="kzu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kzu&show_icons=true&locale=en&show=discussions_answered&theme=transparent" alt="kzu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kzu&" alt="kzu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kzu&theme=transparent" alt="kzu" /></p>
 
 <h1></h1>
 
