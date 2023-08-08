@@ -16,29 +16,17 @@ Some fancy stats about my favorite hobbie (coding on GitHub, of course!):
 <p>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kzu&show_icons=true&locale=en&layout=compact&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=kzu&show_icons=true&locale=en&show=discussions_answered&theme=dark&custom_title=Kzu%20Stats%20In%20A%20Nutshell"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kzu&show_icons=true&locale=en&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api?username=kzu&show_icons=true&locale=en&show=discussions_answered&custom_title=Kzu%20Stats%20In%20A%20Nutshell"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kzu&show_icons=true&locale=en&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kzu&show_icons=true&locale=en&show=discussions_answered&custom_title=Kzu%20Stats%20In%20A%20Nutshell" />
 </picture>
 </p>
-<p>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kzu&show_icons=true&locale=en&show=discussions_answered&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kzu&show_icons=true&locale=en&show=discussions_answered"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kzu&show_icons=true&locale=en&show=discussions_answered" />
-</picture>
-</p>
+
 <p>
 <picture>
   <source
@@ -46,15 +34,33 @@ Some fancy stats about my favorite hobbie (coding on GitHub, of course!):
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=kzu&theme=transparent"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=kzu"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kzu" />
 </picture>
 </p>
+
 <h1></h1>
 
-And since I'm a total fan of [Shields.io](https://shields.io/) badges, some additional GitHub stats in badge format:
+<p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kzu&show_icons=true&locale=en&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kzu&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kzu&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5" />
+</picture>
+</p>
+
+<h1></h1>
+
+And since I'm a total fan of [Shields.io](https://shields.io) badges, some additional GitHub stats in badge format:  
+
 
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/devlooped?color=C65197&label=@devlooped%20sponsors)
 ![GitHub followers](https://img.shields.io/github/followers/kzu?logo=GitHub&label=@kzu%20followers)
