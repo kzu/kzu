@@ -24,7 +24,7 @@ Some fancy stats about my favorite hobbie (coding on GitHub, of course!):
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kzu&show_icons=true&locale=en&show=discussions_answered&custom_title=Kzu%20Stats%20In%20A%20Nutshell" />
 </picture>
 </p>
-
+&nbsp;
 <p>
 <picture>
   <source
@@ -36,7 +36,7 @@ Some fancy stats about my favorite hobbie (coding on GitHub, of course!):
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kzu" />
 </picture>
 </p>
-
+&nbsp;
 <p>
 <picture>
   <source
@@ -48,7 +48,6 @@ Some fancy stats about my favorite hobbie (coding on GitHub, of course!):
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kzu&show_icons=true&layout=compact&size_weight=0.5&count_weight=0.5" />
 </picture>
 </p>
-
 <h1></h1>
 
 And since I'm a total fan of [Shields.io](https://shields.io) badges, some additional GitHub stats in badge format:  
