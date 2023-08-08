@@ -6,11 +6,11 @@
 [![Discord](https://img.shields.io/badge/discord-danielkzu-7289DA.svg?logo=discord&logoColor=white)](https://discord.gg/8PtpGdu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danielkzu-0A66C2.svg?logo=linkedin&logoColor=0A66C2&labelColor=silver)]([https://discord.gg/8PtpGdu](https://linkedin.com/in/danielcazzulino))
 
-I have set up a GitHub sponsor account so you can contribute to my ongoing opensource work, no minimum 
-amount required 🙏
+I have set up a GitHub sponsor account so you can contribute to my ongoing opensource work, no minimum amount required!
 
-[![Sponsor me 🙏](https://raw.githubusercontent.com/devlooped/sponsors/main/sponsor.png#gh-light-mode-only "Sponsor me 🙏")](https://github.com/sponsors/devlooped#gh-light-mode-only)
-[![Sponsor me 🙏](https://raw.githubusercontent.com/devlooped/sponsors/main/sponsor-dark.png#gh-dark-mode-only "Sponsor me 🙏")](https://github.com/sponsors/devlooped#gh-dark-mode-only)
+
+[![Sponsor me 💜](https://raw.githubusercontent.com/devlooped/sponsors/main/sponsor.png#gh-light-mode-only "Sponsor me 💜")](https://github.com/sponsors/devlooped#gh-light-mode-only)
+[![Sponsor me 💜](https://raw.githubusercontent.com/devlooped/sponsors/main/sponsor-dark.png#gh-dark-mode-only "Sponsor me 💜")](https://github.com/sponsors/devlooped#gh-dark-mode-only)
 
 Some fancy stats about my favorite hobbie (coding on GitHub, of course!):
 
