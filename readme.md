@@ -3,11 +3,10 @@
 <h3 align="center">A hardcore .NET/C# developer from Argentina</h3>
 
 [![X](https://img.shields.io/badge/X-@kzu-blue?logo=twitter&logoColor=1D9BF0&labelColor=black)](https://x.com/kzu)
-[![Discord](https://img.shields.io/badge/discord-danielkzu-7289DA.svg?logo=discord&logoColor=white)](https://discord.gg/2M6WBFrywB)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danielkzu-0A66C2.svg?logo=linkedin&logoColor=0A66C2&labelColor=silver)]([https://discord.gg/8PtpGdu](https://linkedin.com/in/danielcazzulino))
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/devlooped?style=social&logo=githubsponsors)](https://github.com/sponsors/devlooped)
 
 I have set up a GitHub sponsor account so you can contribute to my ongoing opensource work, no minimum amount required!
-
 
 [![Sponsor me 💜](https://raw.githubusercontent.com/devlooped/sponsors/main/sponsor.png#gh-light-mode-only "Sponsor me 💜")](https://github.com/sponsors/devlooped#gh-light-mode-only)
 [![Sponsor me 💜](https://raw.githubusercontent.com/devlooped/sponsors/main/sponsor-dark.png#gh-dark-mode-only "Sponsor me 💜")](https://github.com/sponsors/devlooped#gh-dark-mode-only)
@@ -53,9 +52,8 @@ Some fancy stats about my favorite hobby (coding on GitHub, of course!):
 
 And since I'm a total fan of [Shields.io](https://shields.io) badges, some additional GitHub stats in badge format:  
 
-
-![GitHub Sponsors](https://img.shields.io/github/sponsors/devlooped?color=C65197&label=@devlooped%20sponsors)
-![GitHub followers](https://img.shields.io/github/followers/kzu?logo=GitHub&label=@kzu%20followers)
-![GitHub stars](https://img.shields.io/github/stars/kzu?logo=GitHub&label=@kzu%20stars&affiliations=OWNER,COLLABORATOR&color=FFC83D)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/devlooped?style=social&logo=githubsponsors)](https://github.com/sponsors/devlooped)
+[![GitHub followers](https://img.shields.io/github/followers/kzu?logo=GitHub&label=@kzu%20followers)](https://github.com/kzu)
+[![GitHub stars](https://img.shields.io/github/stars/kzu?logo=GitHub&label=@kzu%20stars&affiliations=OWNER,COLLABORATOR&color=FFC83D)](https://github.com/kzu)
 [![GitHub followers](https://img.shields.io/github/followers/devlooped?logo=GitHub&label=@devlooped%20followers)](https://github.com/devlooped)
 [![GitHub Org's stars](https://img.shields.io/github/stars/devlooped?logo=GitHub&label=@devlooped%20stars)](https://github.com/devlooped)
