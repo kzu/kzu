@@ -5,6 +5,8 @@
 [![X](https://img.shields.io/badge/X-@kzu-blue?logo=twitter&logoColor=1D9BF0&labelColor=black)](https://x.com/kzu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danielkzu-0A66C2.svg?logo=linkedin&logoColor=0A66C2&labelColor=silver)]([https://discord.gg/8PtpGdu](https://linkedin.com/in/danielcazzulino))
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/devlooped?style=social&logo=githubsponsors)](https://github.com/sponsors/devlooped)
+[![Popular NuGets](https://img.shields.io/endpoint?label=popular%20nugets&style=social&logo=nuget&url=https%3A%2F%2Fsponsorlink.devlooped.com%2Fnuget%2Fall)](https://www.nuget.org/profiles/devlooped)
+[![Daily Downloads](https://img.shields.io/endpoint?label=daily%20downloads&style=social&logo=nuget&url=https%3A%2F%2Fsponsorlink.devlooped.com%2Fnuget%2Fdl)](https://www.nuget.org/profiles/devlooped)
 
 I have set up a GitHub sponsor account so you can contribute to my ongoing opensource work, no minimum amount required!
 
@@ -12,9 +14,6 @@ I have set up a GitHub sponsor account so you can contribute to my ongoing opens
 [![Sponsor me 💜](https://raw.githubusercontent.com/devlooped/sponsors/main/sponsor-dark.png#gh-dark-mode-only "Sponsor me 💜")](https://github.com/sponsors/devlooped#gh-dark-mode-only)
 
 Some fancy stats about my favorite hobby (coding on GitHub, of course!):
-
-[![Popular NuGets](https://img.shields.io/endpoint?label=popular%20nugets&style=social&logo=nuget&url=https%3A%2F%2Fsponsorlink.devlooped.com%2Fnuget%2Fall)](https://www.nuget.org/profiles/devlooped)
-[![Daily Downloads](https://img.shields.io/endpoint?label=daily%20downloads&style=social&logo=nuget&url=https%3A%2F%2Fsponsorlink.devlooped.com%2Fnuget%2Fdl)](https://www.nuget.org/profiles/devlooped)
 
 <p>
 <picture>
