@@ -13,6 +13,9 @@ I have set up a GitHub sponsor account so you can contribute to my ongoing opens
 
 Some fancy stats about my favorite hobby (coding on GitHub, of course!):
 
+[![Popular NuGets](https://img.shields.io/endpoint?label=popular%20nugets&style=social&logo=nuget&url=https%3A%2F%2Fsponsorlink.devlooped.com%2Fnuget%2Fall)](https://www.nuget.org/profiles/devlooped)
+[![Daily Downloads](https://img.shields.io/endpoint?label=daily%20downloads&style=social&logo=nuget&url=https%3A%2F%2Fsponsorlink.devlooped.com%2Fnuget%2Fdl)](https://www.nuget.org/profiles/devlooped)
+
 <p>
 <picture>
   <source
